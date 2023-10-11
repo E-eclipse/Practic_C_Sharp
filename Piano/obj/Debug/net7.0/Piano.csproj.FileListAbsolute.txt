@@ -1,0 +1,28 @@
+C:\Users\Matt\source\repos\Piano\Piano\obj\Debug\net7.0\Piano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\source\repos\Piano\Piano\obj\Debug\net7.0\Piano.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\Piano\Piano\obj\Debug\net7.0\Piano.AssemblyInfo.cs
+C:\Users\Matt\source\repos\Piano\Piano\obj\Debug\net7.0\Piano.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\Piano\Piano\bin\Debug\net7.0\Piano.exe
+C:\Users\Matt\source\repos\Piano\Piano\bin\Debug\net7.0\Piano.deps.json
+C:\Users\Matt\source\repos\Piano\Piano\bin\Debug\net7.0\Piano.runtimeconfig.json
+C:\Users\Matt\source\repos\Piano\Piano\bin\Debug\net7.0\Piano.dll
+C:\Users\Matt\source\repos\Piano\Piano\bin\Debug\net7.0\Piano.pdb
+C:\Users\Matt\source\repos\Piano\Piano\obj\Debug\net7.0\Piano.dll
+C:\Users\Matt\source\repos\Piano\Piano\obj\Debug\net7.0\refint\Piano.dll
+C:\Users\Matt\source\repos\Piano\Piano\obj\Debug\net7.0\Piano.pdb
+C:\Users\Matt\source\repos\Piano\Piano\obj\Debug\net7.0\Piano.genruntimeconfig.cache
+C:\Users\Matt\source\repos\Piano\Piano\obj\Debug\net7.0\ref\Piano.dll
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Piano\Piano\bin\Debug\net7.0\Piano.exe
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Piano\Piano\bin\Debug\net7.0\Piano.deps.json
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Piano\Piano\bin\Debug\net7.0\Piano.runtimeconfig.json
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Piano\Piano\bin\Debug\net7.0\Piano.dll
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Piano\Piano\bin\Debug\net7.0\Piano.pdb
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Piano\Piano\obj\Debug\net7.0\Piano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Piano\Piano\obj\Debug\net7.0\Piano.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Piano\Piano\obj\Debug\net7.0\Piano.AssemblyInfo.cs
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Piano\Piano\obj\Debug\net7.0\Piano.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Piano\Piano\obj\Debug\net7.0\Piano.dll
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Piano\Piano\obj\Debug\net7.0\refint\Piano.dll
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Piano\Piano\obj\Debug\net7.0\Piano.pdb
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Piano\Piano\obj\Debug\net7.0\Piano.genruntimeconfig.cache
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Piano\Piano\obj\Debug\net7.0\ref\Piano.dll
