@@ -1,0 +1,28 @@
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\bin\Debug\net7.0\Ezhednevnik.exe
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\bin\Debug\net7.0\Ezhednevnik.deps.json
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\bin\Debug\net7.0\Ezhednevnik.runtimeconfig.json
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\bin\Debug\net7.0\Ezhednevnik.dll
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\bin\Debug\net7.0\Ezhednevnik.pdb
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\Ezhednevnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\Ezhednevnik.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\Ezhednevnik.AssemblyInfo.cs
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\Ezhednevnik.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\Ezhednevnik.dll
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\refint\Ezhednevnik.dll
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\Ezhednevnik.pdb
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\Ezhednevnik.genruntimeconfig.cache
+C:\Users\Matt\Desktop\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\ref\Ezhednevnik.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\bin\Debug\net7.0\Ezhednevnik.exe
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\bin\Debug\net7.0\Ezhednevnik.deps.json
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\bin\Debug\net7.0\Ezhednevnik.runtimeconfig.json
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\bin\Debug\net7.0\Ezhednevnik.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\bin\Debug\net7.0\Ezhednevnik.pdb
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\Ezhednevnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\Ezhednevnik.AssemblyInfoInputs.cache
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\Ezhednevnik.AssemblyInfo.cs
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\Ezhednevnik.csproj.CoreCompileInputs.cache
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\Ezhednevnik.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\refint\Ezhednevnik.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\Ezhednevnik.pdb
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\Ezhednevnik.genruntimeconfig.cache
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Ezhednevnik\Ezhednevnik\obj\Debug\net7.0\ref\Ezhednevnik.dll
