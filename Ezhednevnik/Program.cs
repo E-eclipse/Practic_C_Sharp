@@ -1,5 +1,4 @@
-﻿using Ezhednevnik;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
 
@@ -57,7 +56,7 @@ public class Program
                         DrawMenu();
                         break;
 
-                    case ConsoleKey.A:
+                    case ConsoleKey.E:
                         AddNote();
                         break;
 
@@ -76,15 +75,13 @@ public class Program
     static void AddNote()
     {
         Console.Clear();
-        Console.WriteLine("Введите заголовок заметки: ");
+        Console.WriteLine("Введите название заметки: ");
         string title = Console.ReadLine();
-        Console.Write("Время заметки: ");
-        string time = Console.ReadLine();
 
         if (!notes.ContainsKey(date))
             notes[date] = new List<Note>();
 
-        notes[date].Add(new Note(title, "", "", time));
+        notes[date].Add(new Note(title, "", "", ""));
 
         Console.Clear();
     }
@@ -138,7 +135,7 @@ public class Program
 
     static void InitializeNotes()
     {
-        notes[date] = new List<Note> { new Note("Заметки добавляются через кнопку A", "", "", "") };
+        notes[date] = new List<Note> { new Note("Заметки добавляются через кнопку E", "", "", "") };
     }
 
     static void ClearLine()
