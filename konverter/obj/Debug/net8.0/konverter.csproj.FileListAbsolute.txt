@@ -1,0 +1,14 @@
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\konverter\konverter\bin\Debug\net8.0\konverter.exe
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\konverter\konverter\bin\Debug\net8.0\konverter.deps.json
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\konverter\konverter\bin\Debug\net8.0\konverter.runtimeconfig.json
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\konverter\konverter\bin\Debug\net8.0\konverter.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\konverter\konverter\bin\Debug\net8.0\konverter.pdb
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\konverter\konverter\obj\Debug\net8.0\konverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\konverter\konverter\obj\Debug\net8.0\konverter.AssemblyInfoInputs.cache
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\konverter\konverter\obj\Debug\net8.0\konverter.AssemblyInfo.cs
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\konverter\konverter\obj\Debug\net8.0\konverter.csproj.CoreCompileInputs.cache
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\konverter\konverter\obj\Debug\net8.0\konverter.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\konverter\konverter\obj\Debug\net8.0\refint\konverter.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\konverter\konverter\obj\Debug\net8.0\konverter.pdb
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\konverter\konverter\obj\Debug\net8.0\konverter.genruntimeconfig.cache
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\konverter\konverter\obj\Debug\net8.0\ref\konverter.dll
