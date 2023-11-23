@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v31T9J4a8fE9x8Wk7mISoiTAn4f5wJ6Hqn4hNA3gGHoAAJZCK1pQu18TVJOoJfRlRylWXsYjjbHspqRNEsYA5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simer\\OneDrive\\Рабочий стол\\техникум\\Основы а. и п. Скорогудаева\\repos\\Provodnik\\Provodnik\\Provodnik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\simer\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\simer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\simer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

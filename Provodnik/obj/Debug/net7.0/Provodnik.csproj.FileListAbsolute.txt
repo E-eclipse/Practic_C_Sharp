@@ -1,0 +1,28 @@
+C:\Users\Matt\source\repos\Provodnik\Provodnik\bin\Debug\net7.0\Provodnik.exe
+C:\Users\Matt\source\repos\Provodnik\Provodnik\bin\Debug\net7.0\Provodnik.deps.json
+C:\Users\Matt\source\repos\Provodnik\Provodnik\bin\Debug\net7.0\Provodnik.runtimeconfig.json
+C:\Users\Matt\source\repos\Provodnik\Provodnik\bin\Debug\net7.0\Provodnik.dll
+C:\Users\Matt\source\repos\Provodnik\Provodnik\bin\Debug\net7.0\Provodnik.pdb
+C:\Users\Matt\source\repos\Provodnik\Provodnik\obj\Debug\net7.0\Provodnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\source\repos\Provodnik\Provodnik\obj\Debug\net7.0\Provodnik.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\Provodnik\Provodnik\obj\Debug\net7.0\Provodnik.AssemblyInfo.cs
+C:\Users\Matt\source\repos\Provodnik\Provodnik\obj\Debug\net7.0\Provodnik.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\Provodnik\Provodnik\obj\Debug\net7.0\Provodnik.dll
+C:\Users\Matt\source\repos\Provodnik\Provodnik\obj\Debug\net7.0\refint\Provodnik.dll
+C:\Users\Matt\source\repos\Provodnik\Provodnik\obj\Debug\net7.0\Provodnik.pdb
+C:\Users\Matt\source\repos\Provodnik\Provodnik\obj\Debug\net7.0\Provodnik.genruntimeconfig.cache
+C:\Users\Matt\source\repos\Provodnik\Provodnik\obj\Debug\net7.0\ref\Provodnik.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Provodnik\Provodnik\bin\Debug\net7.0\Provodnik.exe
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Provodnik\Provodnik\bin\Debug\net7.0\Provodnik.deps.json
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Provodnik\Provodnik\bin\Debug\net7.0\Provodnik.runtimeconfig.json
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Provodnik\Provodnik\bin\Debug\net7.0\Provodnik.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Provodnik\Provodnik\bin\Debug\net7.0\Provodnik.pdb
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Provodnik\Provodnik\obj\Debug\net7.0\Provodnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Provodnik\Provodnik\obj\Debug\net7.0\Provodnik.AssemblyInfoInputs.cache
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Provodnik\Provodnik\obj\Debug\net7.0\Provodnik.AssemblyInfo.cs
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Provodnik\Provodnik\obj\Debug\net7.0\Provodnik.csproj.CoreCompileInputs.cache
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Provodnik\Provodnik\obj\Debug\net7.0\Provodnik.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Provodnik\Provodnik\obj\Debug\net7.0\refint\Provodnik.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Provodnik\Provodnik\obj\Debug\net7.0\Provodnik.pdb
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Provodnik\Provodnik\obj\Debug\net7.0\Provodnik.genruntimeconfig.cache
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\Provodnik\Provodnik\obj\Debug\net7.0\ref\Provodnik.dll
