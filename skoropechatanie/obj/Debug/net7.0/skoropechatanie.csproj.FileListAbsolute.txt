@@ -1,0 +1,28 @@
+C:\Users\Matt\source\repos\skoropechatanie\skoropechatanie\bin\Debug\net7.0\skoropechatanie.exe
+C:\Users\Matt\source\repos\skoropechatanie\skoropechatanie\bin\Debug\net7.0\skoropechatanie.deps.json
+C:\Users\Matt\source\repos\skoropechatanie\skoropechatanie\bin\Debug\net7.0\skoropechatanie.runtimeconfig.json
+C:\Users\Matt\source\repos\skoropechatanie\skoropechatanie\bin\Debug\net7.0\skoropechatanie.dll
+C:\Users\Matt\source\repos\skoropechatanie\skoropechatanie\bin\Debug\net7.0\skoropechatanie.pdb
+C:\Users\Matt\source\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\skoropechatanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\source\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\skoropechatanie.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\skoropechatanie.AssemblyInfo.cs
+C:\Users\Matt\source\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\skoropechatanie.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\skoropechatanie.dll
+C:\Users\Matt\source\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\refint\skoropechatanie.dll
+C:\Users\Matt\source\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\skoropechatanie.pdb
+C:\Users\Matt\source\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\skoropechatanie.genruntimeconfig.cache
+C:\Users\Matt\source\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\ref\skoropechatanie.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\skoropechatanie\skoropechatanie\bin\Debug\net7.0\skoropechatanie.exe
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\skoropechatanie\skoropechatanie\bin\Debug\net7.0\skoropechatanie.deps.json
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\skoropechatanie\skoropechatanie\bin\Debug\net7.0\skoropechatanie.runtimeconfig.json
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\skoropechatanie\skoropechatanie\bin\Debug\net7.0\skoropechatanie.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\skoropechatanie\skoropechatanie\bin\Debug\net7.0\skoropechatanie.pdb
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\skoropechatanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\skoropechatanie.AssemblyInfoInputs.cache
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\skoropechatanie.AssemblyInfo.cs
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\skoropechatanie.csproj.CoreCompileInputs.cache
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\skoropechatanie.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\refint\skoropechatanie.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\skoropechatanie.pdb
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\skoropechatanie.genruntimeconfig.cache
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\skoropechatanie\skoropechatanie\obj\Debug\net7.0\ref\skoropechatanie.dll
