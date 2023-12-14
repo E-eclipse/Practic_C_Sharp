@@ -1,0 +1,14 @@
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\zmeika\zmeika\bin\Debug\net8.0\zmeika.exe
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\zmeika\zmeika\bin\Debug\net8.0\zmeika.deps.json
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\zmeika\zmeika\bin\Debug\net8.0\zmeika.runtimeconfig.json
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\zmeika\zmeika\bin\Debug\net8.0\zmeika.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\zmeika\zmeika\bin\Debug\net8.0\zmeika.pdb
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\zmeika\zmeika\obj\Debug\net8.0\zmeika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\zmeika\zmeika\obj\Debug\net8.0\zmeika.AssemblyInfoInputs.cache
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\zmeika\zmeika\obj\Debug\net8.0\zmeika.AssemblyInfo.cs
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\zmeika\zmeika\obj\Debug\net8.0\zmeika.csproj.CoreCompileInputs.cache
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\zmeika\zmeika\obj\Debug\net8.0\zmeika.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\zmeika\zmeika\obj\Debug\net8.0\refint\zmeika.dll
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\zmeika\zmeika\obj\Debug\net8.0\zmeika.pdb
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\zmeika\zmeika\obj\Debug\net8.0\zmeika.genruntimeconfig.cache
+C:\Users\simer\OneDrive\Рабочий стол\техникум\Основы а. и п. Скорогудаева\repos\zmeika\zmeika\obj\Debug\net8.0\ref\zmeika.dll
