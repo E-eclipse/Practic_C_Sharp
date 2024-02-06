@@ -1,0 +1,14 @@
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\ОАИП - Скорогудаева\-_-\-_-\bin\Debug\-_-.exe.config
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\ОАИП - Скорогудаева\-_-\-_-\bin\Debug\-_-.exe
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\ОАИП - Скорогудаева\-_-\-_-\bin\Debug\-_-.pdb
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\ОАИП - Скорогудаева\-_-\-_-\obj\Debug\-_-.csproj.AssemblyReference.cache
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\ОАИП - Скорогудаева\-_-\-_-\obj\Debug\MainWindow.g.cs
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\ОАИП - Скорогудаева\-_-\-_-\obj\Debug\App.g.cs
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\ОАИП - Скорогудаева\-_-\-_-\obj\Debug\-_-_MarkupCompile.cache
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\ОАИП - Скорогудаева\-_-\-_-\obj\Debug\MainWindow.baml
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\ОАИП - Скорогудаева\-_-\-_-\obj\Debug\-_-.g.resources
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\ОАИП - Скорогудаева\-_-\-_-\obj\Debug\___.Properties.Resources.resources
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\ОАИП - Скорогудаева\-_-\-_-\obj\Debug\-_-.csproj.GenerateResource.cache
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\ОАИП - Скорогудаева\-_-\-_-\obj\Debug\-_-.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\ОАИП - Скорогудаева\-_-\-_-\obj\Debug\-_-.exe
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\ОАИП - Скорогудаева\-_-\-_-\obj\Debug\-_-.pdb
